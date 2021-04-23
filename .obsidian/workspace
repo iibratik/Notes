@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "ea8bb2b36bb9f41d",
+    "type": "split",
+    "children": [
+      {
+        "id": "63310e7205d0301e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Programmer Note/Адаптивная верстка сайтов/Адаптивная верстка сайтов.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1c0ef6f7f50bddf9",
+    "type": "split",
+    "children": [
+      {
+        "id": "88d932ca14760c14",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4719c54b637fa48",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "44f5f0a88359557c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "56739019ca987f7c",
+    "type": "split",
+    "children": [
+      {
+        "id": "07b436c45dbab34b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4178ccde68cf565c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Programmer Note/Адаптивная верстка сайтов/Адаптивная верстка сайтов.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "63310e7205d0301e",
+  "lastOpenFiles": [
+    "Programmer Note/Адаптивная верстка сайтов/Адаптивная верстка сайтов.md",
+    "Programmer Note/Адаптивная верстка сайтов/Отзывчиво-Адаптивная верстка.md",
+    "Programmer Note/Адаптивная верстка сайтов/Отзывчивая верстка.md",
+    "Programmer Note/Адаптивная верстка сайтов/Адаптивная верстка.md",
+    "README.md",
+    "Адаптивная верстка сайтов.md",
+    "Untitled.md",
+    "Programmer Note/Адаптивная верстка сайтов/Фиксированная верстка.md",
+    "Programmer Note/Адаптивная верстка сайтов/Медиа запросы.md",
+    "Адаптивная Верстка сайтов.md"
+  ]
+}
